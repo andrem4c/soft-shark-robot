@@ -38,3 +38,6 @@ The Soft Shark Robot includes an iOS application that allows users to interact w
 * Build and run the application by clicking the Run button.
 
 Important: A paid Apple Developer Program membership is not required to build and install the application on your personal iPhone. However, free provisioning has certain limitations, including the need to renew the app signature periodically.
+
+## Electronics
+The Gerber files are available as a ZIP archive inside the `Electronics` folder. Upload the entire ZIP file to your preferred PCB manufacturing service (e.g., JLCPCB, PCBWay, etc.).
